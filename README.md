@@ -1,12 +1,12 @@
 <h1 align="center">Assalomu aleykum Ism familiyam: Xo'jamberdiyev Diyorbek</h1>
 <h3 align="center">Frontend dasturchi</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Men bilan bog'lanish:</h3>
 <p align="left">
 <a href="https://instagram.com/diyorbek.xojamberdiyev.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dxx_dev_06" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Men bilaman:</h3>
 <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img
@@ -75,17 +75,12 @@
       </p>
 
 
-<h3 align="left">GitHub stats:</h3>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dxxdev&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <br/>
-    <br/>
+<h3 align="left">GitHub statistikam:</h3>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxxdev&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxxdev&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&locale=uz" />
     </a>
     <br/>
     <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=dxxdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=dxxdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true&locale=uz" />
     </a>
