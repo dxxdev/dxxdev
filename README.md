@@ -74,10 +74,6 @@ O'zbekistonning Andijon shahridan bo'lgan **Frontend Developer**man. Asosan zamo
   </table>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dxxdev&theme=radical&layout=compact" alt="Wakatime Stats" />
-</p>
-
 ---
 
 ### 🚀 Top Loyihalarim
