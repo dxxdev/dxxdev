@@ -97,9 +97,9 @@ O'zbekistonning Andijon shahridan bo'lgan **Frontend Developer**man. Asosan zamo
 3.  **[qarz-daftari](https://github.com/dxxdev/qarz-daftari)**
     *   **Tavsif:** Qarzlar va hisob-kitoblarni raqamlashtirish uchun qulay platforma.
     *   **Texnologiyalar:** `React`, `Firebase`, `Material UI`.
-    *   **Jonli havola:** [qarz-daftar.vercel.app](https://qarz-daftar.vercel.app)
+    *   **Jonli havola:** [qarz-daftari-back-up.netlify.app](https://qarz-daftari-back-up.netlify.app/)
     <p align="center">
-      <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fqarz-daftar.vercel.app?w=600" alt="qarz-daftari preview" />
+      <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fqarz-daftari-back-up.netlify.app?w=600" alt="qarz-daftari preview" />
     </p>
 
 ---
