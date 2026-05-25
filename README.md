@@ -1,7 +1,7 @@
 # 👋 Salom, Men Diyorbek Xo'jamberdiyev!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=447&lines=Frontend+Developer;Next.js+Expert;AI+Enthusiast;📈+Only+Development" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Diyorbek%20Xo'jamberdiyev&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20Next.js%20Expert%20|%20AI%20Enthusiast&descSize=20&descAlignY=55" />
 </p>
 
 ---
