@@ -78,9 +78,29 @@ O'zbekistonning Andijon shahridan bo'lgan **Frontend Developer**man. Asosan zamo
 
 ### 🚀 Top Loyihalarim
 
-1.  **[dily](https://github.com/dxxdev/dily)** - O'zbekistondagi elektron qurilmalar uchun e-commerce platformasi.
-2.  **[auto-tuning](https://github.com/dxxdev/auto-tuning)** - Avtomobillarni sozlash va xizmat ko'rsatishga yo'naltirilgan loyiha.
-3.  **[qarz-daftari](https://github.com/dxxdev/qarz-daftari)** - Qarzlar va hisob-kitoblarni boshqarish uchun raqamli platforma.
+1.  **[dily](https://github.com/dxxdev/dily)**
+    *   **Tavsif:** O'zbekistondagi elektron qurilmalar uchun zamonaviy e-commerce platformasi.
+    *   **Texnologiyalar:** `React`, `Redux Toolkit`, `Tailwind CSS`, `Node.js`.
+    *   **Jonli havola:** [dily.uz](https://dily.uz)
+    <p align="center">
+      <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fdily.uz?w=600" alt="dily preview" />
+    </p>
+
+2.  **[auto-tuning](https://github.com/dxxdev/auto-tuning)**
+    *   **Tavsif:** Avtomobillarni sozlash va xizmat ko'rsatishga yo'naltirilgan interaktiv platforma.
+    *   **Texnologiyalar:** `JavaScript`, `Bootstrap`, `CSS3`.
+    *   **Jonli havola:** [auto-tuning.netlify.app](https://auto-tuning.netlify.app)
+    <p align="center">
+      <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fauto-tuning.netlify.app?w=600" alt="auto-tuning preview" />
+    </p>
+
+3.  **[qarz-daftari](https://github.com/dxxdev/qarz-daftari)**
+    *   **Tavsif:** Qarzlar va hisob-kitoblarni raqamlashtirish uchun qulay platforma.
+    *   **Texnologiyalar:** `React`, `Firebase`, `Material UI`.
+    *   **Jonli havola:** [qarz-daftar.vercel.app](https://qarz-daftar.vercel.app)
+    <p align="center">
+      <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fqarz-daftar.vercel.app?w=600" alt="qarz-daftari preview" />
+    </p>
 
 ---
 
