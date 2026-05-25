@@ -80,6 +80,7 @@ O'zbekistonning Andijon shahridan bo'lgan **Frontend Developer**man. Asosan zamo
 
 1.  **[dily](https://github.com/dxxdev/dily)** - O'zbekistondagi elektron qurilmalar uchun e-commerce platformasi.
 2.  **[auto-tuning](https://github.com/dxxdev/auto-tuning)** - Avtomobillarni sozlash va xizmat ko'rsatishga yo'naltirilgan loyiha.
+3.  **[qarz-daftari](https://github.com/dxxdev/qarz-daftari)** - Qarzlar va hisob-kitoblarni boshqarish uchun raqamli platforma.
 
 ---
 
