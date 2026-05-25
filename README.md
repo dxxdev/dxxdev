@@ -96,6 +96,9 @@ O'zbekistonning Andijon shahridan bo'lgan **Frontend Developer**man. Asosan zamo
   <a href="mailto:diyorbekxojamberdiyevn1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://x.com/diyorwebdev" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 <p align="center">
