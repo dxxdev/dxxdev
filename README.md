@@ -81,9 +81,9 @@ O'zbekistonning Andijon shahridan bo'lgan **Frontend Developer**man. Asosan zamo
 1.  **[dily](https://github.com/dxxdev/dily)**
     *   **Tavsif:** O'zbekistondagi elektron qurilmalar uchun zamonaviy e-commerce platformasi.
     *   **Texnologiyalar:** `React`, `Redux Toolkit`, `Tailwind CSS`, `Node.js`.
-    *   **Jonli havola:** [dily.uz](https://dily.uz)
+    *   **Jonli havola:** [dily.netlify.app](https://dily.netlify.app/)
     <p align="center">
-      <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fdily.uz?w=600" alt="dily preview" />
+      <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fdily.netlify.app?w=600" alt="dily preview" />
     </p>
 
 2.  **[auto-tuning](https://github.com/dxxdev/auto-tuning)**
