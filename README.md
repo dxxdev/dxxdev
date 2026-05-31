@@ -88,7 +88,7 @@ O'zbekistonning Andijon shahridan bo'lgan **Frontend Developer**man. Asosan zamo
 
 2.  **[auto-tuning](https://github.com/dxxdev/auto-tuning)**
     *   **Tavsif:** Avtomobillarni sozlash va xizmat ko'rsatishga yo'naltirilgan interaktiv platforma.
-    *   **Texnologiyalar:** `JavaScript`, `Bootstrap`, `CSS3`.
+    *   **Texnologiyalar:** `React`, `JavaScript`, `Tailwind CSS`.
     *   **Jonli havola:** [auto-tuning.netlify.app](https://auto-tuning.netlify.app)
     <p align="center">
       <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fauto-tuning.netlify.app?w=600" alt="auto-tuning preview" />
