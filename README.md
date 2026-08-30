@@ -52,10 +52,6 @@ O'zbekistonning Andijon shahridan bo'lgan **Frontend Developer**man. Asosan zamo
 
 ### 📊 Faollik va Statistikalar
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxxdev&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
 <div align="center">
   <table border="0">
     <tr>
@@ -76,6 +72,25 @@ O'zbekistonning Andijon shahridan bo'lgan **Frontend Developer**man. Asosan zamo
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dxxdev&theme=tokyonight&hide_border=true" alt="dxxdev Streak" />
+</p>
+
+---
+
+
+### 📅 Contribution Calendar
+
+<p align="center">
+  <img
+    src="https://ghchart.xqsit94.in/dark:39d353/dxxdev"
+    alt="Diyorbek's GitHub Contribution Calendar"
+    width="100%"
+  />
+</p>
+
+---
 
 ---
 
